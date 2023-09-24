@@ -4,4 +4,4 @@
 
 本雜誌開源(FB:murray)，歡迎提交issue，分享美好事物。
 
-[網站](murrayliu.com)
+[網站](http://www.murrayliu.com)
