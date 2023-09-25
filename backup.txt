@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="5Fv-alFk-1-DXzdjvN7hCaLjwarTkasR44SHtAa2z2Q" />
+    <meta name="description" content="這裡記錄每週值得分享的美好事物。">
+    <title>美好事物週刊</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .magazine {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #555;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>美好事物週刊</h1>
+        <p>這裡記錄每週值得分享的美好事物，週五發布。</p>
+        <p>本雜誌開源(<a href="https://www.facebook.com/murray">FB:murray</a>)，歡迎提交issue，分享美好事物。</p>
+    </header>
+
+    <div class="magazine">
+        <h2>如何搜索</h2>
+
+        <h2>2023</h2>
+
+        <h3>九月</h3>
+
+        <ul>
+            <li>第 1 期：<a href="docs/issue-1.html">Unity 的安装费，游戏业的缩影</a></li>
+        </ul>
+    </div>
+</body>
+</html>
+
